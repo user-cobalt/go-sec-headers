@@ -1,0 +1,1 @@
+# go-sec-headers
