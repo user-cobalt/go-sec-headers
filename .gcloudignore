@@ -1,0 +1,18 @@
+# Ignore the local Git folder (it's heavy and unneeded for building)
+.git
+.gitignore
+
+# Ignore local binaries and temporary files
+main
+main.exe
+.DS_Store
+
+# Ignore the setup scripts (they aren't needed by the server)
+setup_cloud.sh
+deploy.sh
+
+# Ignore VS Code settings
+.vscode/
+
+# Ensure we don't upload the gcloud history
+.gcloud/
