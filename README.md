@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# go-sec-headers
-=======
 # go-sec-headers
 
 
@@ -145,4 +142,3 @@ Behavior Changes
 - All header rules include a description field
 - Scoring is now dynamic percentage of total weight
 - Redirect limit: max 5 redirects
->>>>>>> Initial commit
